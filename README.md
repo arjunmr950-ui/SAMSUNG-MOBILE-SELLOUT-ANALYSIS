@@ -39,7 +39,7 @@ This project demonstrates practical skills in **Data Cleaning, SQL Query Writing
 
 This is the cleaned dataset used for SQL analysis and Power BI dashboard creation.
 
-![Excel Dataset](Screenshot%202026-08-21%2000013.png)
+(Screenshot%202026-08-21%2000013.png)
 
 ---
 
