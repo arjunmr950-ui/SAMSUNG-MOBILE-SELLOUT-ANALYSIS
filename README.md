@@ -39,7 +39,6 @@ This project demonstrates practical skills in **Data Cleaning, SQL Query Writing
 
 This is the cleaned dataset used for SQL analysis and Power BI dashboard creation.
 
-![EXCEL DATASET](Screenshot%202026-08-21%2000013.png)
 ![Excel Dataset](./Screenshot%202026-08-21%20000013.png)
 
 ---
@@ -48,7 +47,7 @@ This is the cleaned dataset used for SQL analysis and Power BI dashboard creatio
 
 SQL queries used to analyze Samsung sellout sales data.
 
-![SQL Query](Screenshot%202026-08-21%2000159.png)
+![SQL Query](./Screenshot%202026-08-21%20000159.png)
 
 ---
 
@@ -56,7 +55,7 @@ SQL queries used to analyze Samsung sellout sales data.
 
 Ranking query used to identify top-performing products based on sales.
 
-![Ranking Query](Screenshot%202026-08-21%2000211.png)
+![Ranking Query](./Screenshot%202026-08-21%20000211.png)
 
 ---
 
@@ -64,7 +63,7 @@ Ranking query used to identify top-performing products based on sales.
 
 Output of the SQL ranking query showing ranked products according to sales performance.
 
-![Ranking Query Result](Screenshot%202026-08-21%2000252.png)
+![Ranking Result](./Screenshot%202026-08-21%20000252.png)
 
 ---
 
@@ -72,7 +71,7 @@ Output of the SQL ranking query showing ranked products according to sales perfo
 
 SQL query result showing product performance metrics and business insights.
 
-![Performance Analysis](Screenshot%202026-08-21%2000408.png)
+![Performance Query Result](./Screenshot%202026-08-21%20000408.png)
 
 ---
 
@@ -80,16 +79,14 @@ SQL query result showing product performance metrics and business insights.
 
 Interactive dashboard built in Power BI to visualize Samsung sellout performance.
 
-![Dashboard](Screenshot%202026-08-21%2002448.png)
-
+![Power BI Dashboard](./Screenshot%202026-08-21%20002448.png)
 ---
 
 ## 7️⃣ Dashboard Insights & KPI Analysis
 
 Business insights generated from the Power BI dashboard, highlighting sales trends, top-performing products, and overall KPIs.
 
-![Dashboard Analysis](Screenshot%202026-08-21%2002454.png)
-
+![Dashboard Analysis](./Screenshot%202026-08-21%20002454.png)
 ---
 
 # 📈 Key KPIs
